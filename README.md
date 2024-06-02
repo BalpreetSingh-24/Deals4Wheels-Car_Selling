@@ -31,16 +31,8 @@ user login
 bs660676@gmail.com
 12345
 
-piyush@gmail.com
-1234
-
-simar@gmail.com
-12345
 
 admin login
-harmanpreet@gmail.com
-12345
-
 dealsforwheels99@gmail.com
 admin
 
